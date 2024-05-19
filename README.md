@@ -1,5 +1,4 @@
-# Peonies
-Materials related to my data analysis thesis work on Chinese peonies.
+# Materials related to my data analytics thesis work on Chinese Peonies
 
 PHOTOGRAPHIC folder contains all photographic documentation taken on the LUKE test field.
 Photos are under subfolders named for every peony sample's location identifier.
@@ -12,5 +11,5 @@ https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanzakanza%2
 PLOTS folder contains all the general and sample group specific plotted images present in the document.
 Also collage photos of sample groups are found here.
 
-CODE folder contains a Jupyter Notebook file containing all the Python code used for data handling and visualization in this work.
-Files for original and cleaned up measurement data and genetic data in csv formes are also located here.
+CODE and MEASUREMENT DATA folder contains a Jupyter Notebook file containing all the Python code used for data handling and visualization in this work.
+Files for original and cleaned up measurement data are also located here. Original genetic data from the samples is not shared publically, but instructions on applying genetic marker data are found alongside the code in analysis.ipynb .
