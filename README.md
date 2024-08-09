@@ -13,3 +13,5 @@ Also collage photos of sample groups are found here.
 
 CODE and MEASUREMENT DATA folder contains a Jupyter Notebook file containing all the Python code used for data handling and visualization in this work.
 Files for original and cleaned up measurement data are also located here. Original genetic data from the samples is not shared publically, but instructions on applying genetic marker data are found alongside the code in analysis.ipynb .
+
+![chinesepeoniescover](https://github.com/user-attachments/assets/31dc8011-442d-4078-829f-0ddd49b2dac7)
