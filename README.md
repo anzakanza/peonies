@@ -1,6 +1,6 @@
-# Materials related to my data analytics thesis work on Chinese Peonies
+# Materials related to my data analytics [thesis work on Chinese Peonies](https://urn.fi/URN:NBN:fi-fe2024062056551)
 
-PHOTOGRAPHIC folder contains all photographic documentation taken on the LUKE test field.
+[PHOTOGRAPHIC](https://github.com/anzakanza/peonies/tree/main/PHOTOGRAPHIC) folder contains all photographic documentation taken on the LUKE test field.
 Photos are under subfolders named for every peony sample's location identifier.
 
 Instead of viewing photos in browser or saving them one by one, you can download the photos from a chosen directory by pasting the link of that directory in https://download-directory.github.io/
